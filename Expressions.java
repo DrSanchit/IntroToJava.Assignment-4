@@ -1,0 +1,17 @@
+public class Expressions {
+	public static void main(String[] args) {
+		
+		int x = 5,y=10;
+		
+			int a=x+y*2;
+			int b = x-y+2;
+			int c=(x+y)*2;
+			int d=y%x;
+			
+			System.out.println(a);
+			System.out.println(b);
+			System.out.println(c);
+			System.out.println(d);
+	}
+
+}
